@@ -1,0 +1,17 @@
+INSERT INTO Dinosaure (espece, prenom, date_decouverte) VALUES
+  ('Triceratops', 'Linda', '2000-06-12'),
+  ('T-REX', 'rexou', '2001-06-12'),
+  ('Stegosaure', 'Steevie', '2002-06-12'),
+  ('Velociraptor', 'Suzon', '2000-06-12'),
+  ('Brachiosaurus', 'Aline', '2004-06-12'),
+  ('Ankylosaurus', 'Joe', '1990-06-12'),
+  ('Pachycephalosaurus', 'Pat', '1995-06-12'),
+  ('Spinosaurus', 'Sophie', '1998-06-12'),
+  ('Allosaurus', 'Alfred', '2003-06-12'),
+  ('Diplodocus', 'Diane', '2005-06-12'),
+  ('Iguanodon', 'Igor', '1992-06-12'),
+  ('Parasaurolophus', 'Pauline', '1997-06-12'),
+  ('Stegosaurus', 'Stella', '2006-06-12'),
+  ('Pteranodon', 'Pierre', '1999-06-12'),
+  ('Tyrannosaurus', 'Tina', '2008-06-12'),
+  ('Stegoceras', 'Sophie', '2011-06-12');
